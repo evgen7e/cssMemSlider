@@ -193,7 +193,7 @@ input#slide-5:checked ~ .slider-nav > .slider-info > .slider-text {
     }
 
     .slider-info {
-        line-height: 1em;
+        line-height: 1.2em;
         font-size: 1rem;
     }
 }
